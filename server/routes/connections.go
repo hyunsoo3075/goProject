@@ -16,7 +16,7 @@ import (
 //DBinstance func
 func DBinstance() *mongo.Client {
 	err := godotenv.Load(".env")
-	//using .env allows you to use secure and healthy code to store sensitive topics like port number/ passwords. I believe github's version is gitlore(?)
+	//using .env allows you to use secure and healthy code to store sensitive topics like port number/ passwords. I believe github's version is
 	if err != nil {
 		log.Fatal("Error loading .env file")
 	}
