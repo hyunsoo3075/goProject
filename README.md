@@ -5,11 +5,11 @@
 
 ![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/Adding_menu_item.PNG)
 
-###After pressing add, we can now see that it's added on to our list of menu items
+### After pressing add, we can now see that it's added on to our list of menu items
 
 ![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/display_added_item.PNG)
 
-###as well as in our mongodb database
+### as well as in our mongodb database
 
 ![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/mongodb_added_item.PNG)
 
