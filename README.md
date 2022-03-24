@@ -7,7 +7,7 @@
 
 ### After pressing add, we can now see that it's added on to our list of menu items
 
-![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/display_added_item.PNG)
+![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/displayadded.PNG)
 
 ### as well as in our mongodb database
 
