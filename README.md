@@ -27,4 +27,16 @@
 
 ### now let's do it right
 
+![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/ordering_pizza_right.PNG)
+
+### Let's click on the see current order as well as our database to see if everything went through
+
+![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/displaying_orders.PNG)
+
+![alt text](https://github.com/hyunsoo3075/goProject/blob/master/pictures/mongodb_orders.PNG)
+
+### Perfect!!!
+
+### note: we can remove these menu items or remove current orders as well and it will update backend and frontend right away!
+
 
