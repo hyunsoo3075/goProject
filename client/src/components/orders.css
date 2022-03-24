@@ -1,0 +1,7 @@
+.card{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.card:hover{
+    background-color: rgb(194, 199, 204);
+}
